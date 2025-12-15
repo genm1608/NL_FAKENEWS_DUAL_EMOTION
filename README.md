@@ -55,7 +55,7 @@ Dự án tuân thủ quy trình khoa học dữ liệu chặt chẽ gồm 4 bư�
 
 
 Nguồn dữ liệu: PHEME Dataset (9 sự kiện khẩn cấp trên Twitter).
-
+Tải và giải nén file từ: https://drive.google.com/drive/folders/13zAUXG0sp44aVYRbVbxcN34ViUmp5K6m?usp=sharing
 
 
 
@@ -157,6 +157,7 @@ Bước 2: Chuẩn bị dữ liệu Tải bộ dữ liệu PHEME và giải nén
 Bước 3: Chạy chương trình
 
 python code\_NL.py
+
 
 
 
