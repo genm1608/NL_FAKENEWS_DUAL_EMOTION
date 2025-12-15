@@ -55,7 +55,9 @@ Dự án tuân thủ quy trình khoa học dữ liệu chặt chẽ gồm 4 bư�
 
 
 Nguồn dữ liệu: PHEME Dataset (9 sự kiện khẩn cấp trên Twitter).
-Tải và giải nén file từ: https://drive.google.com/drive/folders/13zAUXG0sp44aVYRbVbxcN34ViUmp5K6m?usp=sharing
+Tải và giải nén file từ: https://figshare.com/articles/dataset/PHEME_dataset_for_Rumour_Detection_and_Veracity_Classification/6392078
+Sau khi tải về ta được file 6392078.zip -> Giải nén ra Thư mục 6392078 chứa thư mục PHEME_veracity.
+Nhấn vào thư mục PHEME_veracity, ta thấy thư mục all-rnr-annotated-threads -> Hãy đổi tên thư mục này thành PHEME_veracity sau đó cắt/copy thư mục này vào cùng cấp với file code\_NL.py như mô tả cấu trúc dự án
 
 
 
@@ -157,6 +159,7 @@ Bước 2: Chuẩn bị dữ liệu Tải bộ dữ liệu PHEME và giải nén
 Bước 3: Chạy chương trình
 
 python code\_NL.py
+
 
 
 
